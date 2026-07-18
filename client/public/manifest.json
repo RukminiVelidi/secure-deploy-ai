@@ -1,0 +1,9 @@
+{
+  "short_name": "SecureDeploy AI",
+  "name": "SecureDeploy AI — AI-powered deployment safety",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#0f0f1a"
+}
